@@ -1,0 +1,5 @@
+restic (0.16.4-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1)
+
+ -- Vladimir Vinogradenko <vladimirv@ixsystems.com>  Wed,  27 Mar 2024 13:22:00 +0100
