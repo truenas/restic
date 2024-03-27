@@ -1,7 +1,7 @@
 Source: restic
 Section: admin
 Priority: optional
-Maintainer: Vladimir Vinogradenko <vladimirv@ixsystems.com>
+Maintainer: iXsystems Development Team <dev@ixsystems.com>
 Build-Depends: debhelper-compat (= 12), wget
 Standards-Version: 4.4.0
 Homepage: https://github.com/restic/restic/releases
