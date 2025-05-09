@@ -7,6 +7,6 @@ Standards-Version: 4.4.0
 Homepage: https://github.com/restic/restic/releases
 
 Package: restic
-Architecture: amd64
+Architecture: amd64 arm64
 Description: restic is a backup program that is fast, efficient and secure
  restic is a backup program that is fast, efficient and secure.
